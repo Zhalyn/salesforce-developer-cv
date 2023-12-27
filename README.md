@@ -14,7 +14,7 @@ Certified Salesforce developer with six years of IT experience specializing in S
 
 ---
 
-## Certificates
+[## Certificates](https://www.salesforce.com/trailblazer/abdyrakmanov) 
 - Platform Developer | Administrator | Advanced Administrator
 - Platform App Builder
 - Experience Cloud Consultant
